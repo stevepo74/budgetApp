@@ -3,7 +3,7 @@
 // SELECT CHART ELEMENT
 const chart = document.querySelector(".chart");
 
-// CREATE CANVAS ELEMMENT
+// CREATE CANVAS ELEMENT
 const canvas = document.createElement("canvas");
 canvas.width = 50;
 canvas.height = 50;
